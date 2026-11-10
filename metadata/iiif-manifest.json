@@ -1,0 +1,462 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://archive.brindlewater.example/iiif/tidal-works/manifest",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Tidal Works: lower estuary survey, 1890\u20131911"
+    ]
+  },
+  "items": [
+    {
+      "id": "canvas-001",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 001"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-001",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-002",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 002"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-002",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-003",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 003"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-003",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-004",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 004"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-004",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-005",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 005"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-005",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-006",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 006"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-006",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-007",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 007"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-007",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-008",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 008"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-008",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-009",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 009"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-009",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-010",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 010"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-010",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-011",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 011"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-011",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-012",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 012"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-012",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-013",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 013"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-013",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-014",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 014"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-014",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-015",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 015"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-015",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-016",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 016"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-016",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-017",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 017"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-017",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-018",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 018"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-018",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-019",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 019"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-019",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-020",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 020"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-020",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-021",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 021"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-021",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-022",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 022"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-022",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-023",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 023"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-023",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-024",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 024"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-024",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-025",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 025"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-025",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-026",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 026"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-026",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-027",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 027"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-027",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-028",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 028"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-028",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-029",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 029"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-029",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "canvas-030",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate 030"
+        ]
+      },
+      "items": [
+        {
+          "id": "annotation-page-030",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
+}
